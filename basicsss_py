@@ -1,0 +1,60 @@
+"""a="malayalam"
+if a==a[::-1]:
+    print("palindrome")
+else:
+    print("not palindrome")
+x=int(10)
+s="share"
+if s=="share":
+    print(x*2)
+if s=="micro":
+    print(x*5)
+#iffff
+mmin=1000
+total=0
+for i in range(1,mmin+1):
+    if (i<=100):
+        total=i*5.0
+    if (i<=300 ):
+        total=i*4.3
+    if (i<=600 ):
+        total=i*2.3
+print(total)
+#numbersss
+b=0
+if b<0:
+    print("negative")
+if b>0:
+    print("positive")
+else:
+    print("zero")
+#gradeee
+grade=60
+if (grade>100):
+    print("a1")
+if (grade>90):
+    print("a2")
+if (grade>80):
+    print("b1")
+if (grade>70):
+    print("b2")
+if (grade>60):
+    print("c1")
+else:
+    print("fail")
+#if property
+bill=10
+total=0
+for i in range (bill):
+    if i<=10:
+        total+=1*i
+    elif i<=200:
+        total+=20
+    elif i<=500:
+        total+=5.0
+    else:
+        total+=2.3
+print(total)"""
+    
+    
+    
